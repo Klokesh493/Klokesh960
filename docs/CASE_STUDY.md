@@ -2,7 +2,7 @@
 
 ## Business problem
 
-Preserve the older GitHub landing repository and direct visitors to the current portfolio.
+Visitors arriving through the legacy repository need a clear link to the current profile and portfolio.
 
 ## Reproduce the workflow
 

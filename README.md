@@ -2,6 +2,10 @@
 
 Legacy entry point for [Lokesh Reddy’s GitHub profile](https://github.com/Klokesh493) and [engineering portfolio](https://klokesh493.github.io/lokesh-kalluru-portfolio/).
 
+## Business problem
+
+Visitors arriving through the legacy repository need a clear link to the current profile and portfolio.
+
 ## Project walkthrough
 
 ```mermaid
