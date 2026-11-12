@@ -6,6 +6,10 @@ Legacy entry point for [Lokesh Reddy’s GitHub profile](https://github.com/Klok
 
 Visitors arriving through the legacy repository need a clear link to the current profile and portfolio.
 
+## What I built
+
+I use this legacy landing repository to keep a direct route to my current GitHub profile and engineering portfolio. The README links directly to both destinations using Markdown, with GitHub handling rendering.
+
 ## Project walkthrough
 
 ```mermaid
