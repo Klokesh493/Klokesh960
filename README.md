@@ -27,3 +27,5 @@ flowchart LR
 Open this repository and follow its link to the current GitHub profile.
 
 Read the [architecture](docs/ARCHITECTURE.md) and [walkthrough](docs/CASE_STUDY.md) for the source path and verification scope.
+
+[Development and review](docs/DEVELOPMENT.md)
