@@ -4,4 +4,16 @@ Legacy entry point for [Lokesh Reddy’s GitHub profile](https://github.com/Klok
 
 ## Project walkthrough
 
+```mermaid
+flowchart LR
+    A["Legacy repository visit"]
+    B["Legacy README navigation"]
+    C["Choose a destination"]
+    D["Current GitHub profile"]
+    E["Engineering portfolio"]
+    A --> B --> C
+    C --> D
+    C --> E
+```
+
 [Architecture and data flow](docs/ARCHITECTURE.md) · [Business problem, demo, and verification](docs/CASE_STUDY.md)
